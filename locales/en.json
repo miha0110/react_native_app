@@ -1,0 +1,209 @@
+
+{
+"login": {
+    "welcome": "WELCOME TO",
+    "username": "USERNAME",
+    "password": "PASSWORD",
+    "enter_credentials": "Please enter username and password received from your doctor",
+    "login_button": "LOGIN",
+    "usage_terms_line1": "By pressing Log In button you agree to",
+    "usage_terms_line2": "Terms and Conditions",
+    "wrong_password": "User name is invalid. Please check for spelling mistake or contact your doctor"
+  },
+  "sideEffects":{
+    "title": "SIDE EFFECTS",
+    "subtitle": "Please share with us if you experience any side effects",
+    "warning": "If you are in doubt about the severity of the side effect, seek immediate medical attention",
+    "Naudea": "Nausea",
+    "Vomiting": "Vomiting",
+    "Dizziness": "Dizziness",
+    "Drowsiness": "Drowsiness",
+    "Constipation": "Constipation",
+    "Itching": "Itching",
+    "Rash": "Rash",
+    "Dyspnea": "Dyspnea",
+    "button": "Update",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "shareEffect":{
+    "jan": "JAN",
+    "feb": "FEB",
+    "mar": "MAR",
+    "apr": "APR",
+    "may": "MAY",
+    "jun": "JUN",
+    "jul": "JUL",
+    "aug": "AUG",
+    "sep": "SEP",
+    "oct": "OCT",
+    "nov": "NOV",
+    "dec": "DEC",
+    "taken": "Taken medication",
+    "title": "Thank you for sharing!",
+    "subtitle1": "The information you provide is important",
+    "subtitle2": "and helps us to give you better treatment",
+    "paragraph1": "Call 911 if your symptoms feel life-",
+    "paragraph2": "threatening or if you think you’re",
+    "paragraph3": "having a medical emergency.",
+    "report": "REPORT PAIN"
+  },
+  "TabAlternative":{
+    "title": "ALTERNATIVES",
+    "subtitle": "Here are options for alternative treatment you may choose to use to relieve your pain",
+    "walkTitle": "Take a walk",
+    "walkP1": "Walking increases endorphin production. Endorphins are your body's pain-inhibiting hormones, and exercise walking can spur their release. ",
+    "walkP2": "This means that walking not only helps you maintain your functional capabilities, but it can also reduce your experience of chronic lower back pain.",
+    "walkP3": "In General, exercise and moderate stretching can be very helpful in reducing pain, be sure to perform correctly and properly.",
+    "bathTitle": "Take a hot bath",
+    "bathP1": "Ask your doctor before using heat therapy. This can be good for all kinds of conditions that affect your Muscles, tendons, and bones, such as low back pain and joint pain.",
+    "bathP2": "Some tips : Don’t just lie there - warm water can help get blood flow to places that need it, so gently stretch and work those areas should apply heat before exercise to increase flexibility and to stimulate blood flow to the area. ",
+    "bathP3": "Treatment with local heat can also be performed.",
+    "coldTitle": "Local treatment using cold compresses",
+    "coldP1": "Use an ice bag with cubed ice, ice pack or ice massage. When using an ice pack that does not have real ice cubes, use a thin towel between the ice pack and the skin to prevent frostbite.",
+    "coldP2": "Do not use ice longer than 20 minutes at a time. More time spent icing does not mean more relief. Be sure the area goes numb, then make sure the skin returns completely back to normal before reapplying.",
+    "coldP3": "Of course this should be done after consultation with your doctor",
+    "medTitle": "Meditation",
+    "medP1": "If your pain lingers, this mental discipline can help you manage it. You clear your mind of thoughts by focusing on one simple thing, such as your breath. It may work alone or in combination with medication.",
+    "medP2": "It is recommended to perform once a day for at least 10 minutes"
+  },
+  "TabProfile":{
+    "profile": "PROFILE",
+    "save": "Save changes",
+    "firstName": "NAME",
+    "lastName": "SURNAME",
+    "phone": "PHONE NUMBER",
+    "birth": "DATE OF BIRTH",
+    "weight": "WEIGHT",
+    "kg": "Kg",
+    "lb": "Lb",
+    "gender": "GENDER",
+    "male": "MALE",
+    "female": "FEMALE",
+    "medical_institution": "MEDICAL INSTITUTION",
+    "hmo": "HMO",
+    "clalit": "Clalit",
+    "leumit": "Leumit",
+    "maccabi": "Maccabi",
+    "meuhedet": "Meuhedet",
+    "wake_up": "WAKE UP",
+    "lunch": "LUNCH",
+    "bedtime": "BEDTIME",
+    "sensitivity_title":"According to our records, you are not sensitive to any medications",
+    "sensitivities_subtitle": "If in case you are sensitive to any medicine, please contact your doctor to update your medical profile.",
+    
+    "pain_treatment": "Are you receiving any pain treatment medication on a regular basis?",
+    "chronic_pain": "Chronic pain syndrome",
+    "hypertension":"Hypertension",
+    "kidney": "Kidney disease",
+    "heart": "Heart disease",
+    "liver":"Liver disease",
+    "antidepressants":"Taking antidepressants, SNRI",
+    "yes": "Yes",
+    "no": "No",
+
+    "personal":"PERSONAL",
+    "details": "DETAILS",
+    "time": "TIME",
+    "settings":"SETTINGS",
+    "medication":"MEDICATION",
+    "sensitivity":"SENSITIVITY",
+    "medical": "MEDICAL",
+    "history": "HISTORY",
+
+    "review": "Please review your personal data",
+    "routine": "Please share with us your daily routine",
+    "sensitivity_data": "Please confirm your medical profile",
+
+    "next": "NEXT",
+    "done": "DONE"
+  },
+  "TakenMed":{
+    "title":"TAKEN MEDICATION",
+    "med_name":"NAME OF MEDICATION",
+    "pain_level":"PAIN LEVEL",
+    "time":"TIME",
+    "taken":"TAKEN",
+    "medication":"medication"
+  },
+  "CircleSlider":{
+    "painful":"painful",
+    "":"",
+    "HOW":"HOW",
+    "DO_YOU":"DO YOU",
+    "FEEL?":"FEEL?",
+
+    "No_Pain": "No Pain",
+
+    "My_pain" :"My pain",
+    "My_pain_is": "My pain is",
+
+    "is_barely" : "is barely",
+    "noticeable": "noticeable",
+
+    "is_light_and" : "is light and",
+    "infrequent" : "infrequent",
+
+    "bothering_but_can": "bothering but can",
+    "be_ignored": "be ignored",
+
+    "constant_but_not" : "constant but not",
+    "too_limiting" : "too limiting",
+    
+    "controls_my": "controls my",
+    "attention": "attention",
+
+    "interfering_with" : "interfering with",
+    "my_life": "my life",
+
+    "deteriorating":"deteriorating",
+    "my_lifestyle" : "my lifestyle",
+
+    "very_strong_I" : "very strong. I",
+    "can’t_function" : "can’t function",
+
+    "unbearable_and_I" : "unbearable and I",
+    "can_barely_move": "can barely move",
+
+    "requires_emergency": "requires emergency",
+    "attention1" : "attentions"
+  },
+  "TabPlan":{
+    "notTakenaken":"dont take",
+    "taken":"TAKEN",
+    "please_take" :"Please take",
+    "taken_time":"Taken time",
+    "report_pain":"REPORT PAIN",
+    "submit": "SUBMIT",
+    "dont_need":"DONT NEED",
+    "medication":"medication",
+    "need":"I NEED",
+    "taken_medication": "Taken medication",
+    "shared_title": "Thank you for sharing!",
+    "shared_subtitle": "We hope you'll feel better soon",
+    "shared_p1": "If you still feel too painful please",
+    "shared_p2": "complain, so we will be able to",
+    "shared_p3": "improve your treatment plan"
+  },
+  "TabAwaitingSurgery":{
+    "title1": "Hi,",
+    "title2": "your surgery is scheduled",
+    "title3": "in",
+    "title4": "days",
+
+    "subtitle1": "mobileApp will walk you through",
+    "subtitle2": "following your surgical procedure"
+  },
+  "modal":{
+    "title1": "Please let us know",
+    "title2": "about your pain",
+    "title3": "levels today",
+
+    "subtitle1": "To give you the best treatment, complete the",
+    "subtitle2": "pain levels you felt during these hours",
+
+    "submit" : "SUBMIT"
+  }
+
+   
+}
